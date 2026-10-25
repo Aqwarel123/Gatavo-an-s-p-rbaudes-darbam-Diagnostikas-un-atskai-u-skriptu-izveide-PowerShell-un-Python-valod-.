@@ -1,0 +1,1 @@
+# Gatavo-an-s-p-rbaudes-darbam-Diagnostikas-un-atskai-u-skriptu-izveide-PowerShell-un-Python-valod-.
