@@ -1,0 +1,3 @@
+Get-Process |
+    Sort-Object WorkingSet64 -Descending |
+    Select-Object -First 5 Name, WorkingSet64
